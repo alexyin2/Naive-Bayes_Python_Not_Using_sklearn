@@ -14,3 +14,4 @@
 2. When one of the probabilites is 0, the whole posterior will become 0.
 3. One way to deal with this kind of situation it to use the add-one smoothing, aka Laplace smoothing.
 4. We will show how this solution works.
+![image](https://github.com/alexyin2/Naive-Bayes_Python_Not_Using_sklearn/blob/master/Image/One-addSmoothing.png)
