@@ -8,7 +8,7 @@ import pandas as pd
 
 def get_data(limit=None):
     print("Reading in and transforming data...")
-    df = pd.read_csv('/Users/alex/Desktop/DeepLearningPrerequisites/KNN/Datasets/train.csv')
+    df = pd.read_csv('train.csv')
     data = df.as_matrix()
     np.random.shuffle(data)
     X = data[:, 1:] / 255.0 # data is from 0..255
