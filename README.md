@@ -1,6 +1,7 @@
 # Naive-Bayes
 1. This is a practice of helping me to learn the background mathematics in Naive-Bayes.
 2. The coding part is based on [lazy programmer](https://github.com/lazyprogrammer)
+3. The data used here is the famous handwriting recognition data: MNIST.
 ***
 
 ## Introduction of background theory
